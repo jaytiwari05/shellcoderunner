@@ -136,6 +136,23 @@ The author is not responsible for misuse.
 **Please do not raise issues if the loader gets detected in the future, as detection timelines vary and there is no guarantee how long this technique will remain effective.**
 ---
 
+### Detection Validation (Informational)
+
+The generated executable was tested using common open-source tools for basic detection visibility:
+
+- YARA rule scanning (community rulesets)
+- ThreadCheck (Defender heuristics)
+- AMSI inspection checks
+<img width="953" height="210" alt="ThreadCheck" src="https://github.com/user-attachments/assets/cfc255f9-e41f-4ef3-9f35-aa147d1c75ce" />
+<img width="657" height="261" alt="yara-rules" src="https://github.com/user-attachments/assets/e751c924-e457-4c85-a6fd-f3008a6ef68c" />
+
+
+At the time of testing, no alerts were triggered by these tools.
+
+> Note: Detection results may vary based on environment, signatures, and security product versions. This does not imply full evasion of all AV/EDR solutions.
+
+---
+
 ## Author
 
 **PaiN05**
