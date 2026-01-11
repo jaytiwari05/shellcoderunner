@@ -20,7 +20,16 @@ This project is intended for **educational and defensive research purposes only*
 
 ## Proof of Concept [Video]
 
-[![PoC Video](https://i9.ytimg.com/vi/xlK_TSLLuHA/mqdefault.jpg?sqp=CNT5jcsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgWyhlMA8=&rs=AOn4CLBZW3D_awnEWD14nexvk2pHm5QF_g)](https://www.youtube.com/watch?v=xlK_TSLLuHA) 
+### Using Adaptix C2
+
+https://github.com/user-attachments/assets/23aa3960-ae08-41a4-9295-fe64b1468e25
+
+
+
+### Using Sliver C2
+
+https://github.com/user-attachments/assets/26a17f65-a135-4e0f-a5c2-2c916daac91b
+
 
 ---
 
