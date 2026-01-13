@@ -158,4 +158,4 @@ At the time of testing, no alerts were triggered by these tools.
 **PaiN05**
 Security Research | Offensive Tradecraft | Malware Development Research
 
-Pypi Link :- https://pypi.org/project/shellcoderunner-aes/1.0.0/
+Pypi Link :- https://pypi.org/project/shellcoderunner-aes/
